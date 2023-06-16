@@ -1,2 +1,3 @@
-# Private_API_FREE
-Documentation of the hidden API of different sites
+# Private API for FREE
+
+[Hidden API of Foreca Weather](/foreca.md)
