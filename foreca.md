@@ -184,7 +184,7 @@ Response:
   
 </details>
 
-# All forecast (15mins, hourly, daily, etc.)
+# 2. All forecast (15mins, hourly, daily, etc.)
 Base url: https://api.foreca.net/mobile/id_of_location.json?lang=lang
 
 #### Request params
@@ -11657,3 +11657,33 @@ Response:
   ```   
 
 </details>
+
+# 3. Weather forecast symbol
+Base url: https://www.foreca.com/public/images/symbols/id_of_symbol.svg
+
+#### Request params
+| URL Parameter    | Description                                   |
+| ---------------- | --------------------------------------------- |
+| id_of_symbol.svg | [Symbol](#main-keys) id from weather forecast |
+
+### Sample request
+Request URL: https://www.foreca.com/public/images/symbols/d400.svg
+
+Response: 
+
+![d400 symbol](https://www.foreca.com/public/images/symbols/d400.svg)
+
+# 3. Wind symbol
+Base url: https://www.foreca.com/public/images/wind/blue/id_of_symbol.svg
+
+#### Request params
+| URL Parameter    | Description                                |
+| ---------------- | ------------------------------------------ |
+| id_of_symbol.svg | [Symbol](#main-keys) id from wind forecast |
+
+### Sample request
+Request URL: https://www.foreca.com/public/images/wind/blue/w315.svg
+
+Response: 
+
+<img src="https://www.foreca.com/public/images/wind/blue/w315.svg" alt="d400 symbol" width="50"/>
