@@ -11673,7 +11673,7 @@ Response:
 
 ![d400 symbol](https://www.foreca.com/public/images/symbols/d400.svg)
 
-# 3. Wind symbol
+# 4. Wind symbol
 Base url: https://www.foreca.com/public/images/wind/blue/id_of_symbol.svg
 
 #### Request params
