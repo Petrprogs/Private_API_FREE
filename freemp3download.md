@@ -8,6 +8,7 @@ Base url: https://free-mp3-download.net/search.php?s={query}
 
 ### Sample request
 Request URL: https://free-mp3-download.net/search.php?s=dvrst
+
 Response: 
 <details> 
   <summary>JSON Response </summary>
