@@ -4,4 +4,6 @@
 
 [Hidden API of Foreca Weather](/foreca.md)
 
+[Hidden API of Free MP3 Download](/freemp3download.md)
+
 Pull requests are welcome!
